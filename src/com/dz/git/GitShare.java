@@ -5,7 +5,7 @@ public class GitShare {
 		String username = "tom";
 		String password = "12345";
 		System.out.println("Hello,GitHub");
-		System.out.println("ok");
+		System.out.println("tom login");
 	}
 }
 ß
