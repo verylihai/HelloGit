@@ -8,4 +8,3 @@ public class GitShare {
 		System.out.println("ok");
 	}
 }
-ß
